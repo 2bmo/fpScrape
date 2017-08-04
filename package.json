@@ -1,0 +1,14 @@
+{
+  "name": "fps",
+  "version": "0.0.1",
+  "description": "Scraping FunPay le web.",
+  "main": "server.js",
+  "author": "Valerie 2bmo",
+  "dependencies": {
+    "cheerio": "latest",
+    "express": "latest",
+    "fs": "latest",
+    "node-telegram-bot-api": "^0.27.1",
+    "request": "latest"
+  }
+}
